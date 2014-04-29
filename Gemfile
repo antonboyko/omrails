@@ -13,6 +13,7 @@ group :development, :test do
 gem 'sqlite3'
 end
 
+gem 'heroku'
 
 gem 'sass-rails', '~> 4.0.3'
 
