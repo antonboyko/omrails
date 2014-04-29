@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gruby "2.0.0"
 gem 'rails', '4.1.0'
 gem 'jquery-rails'
 
